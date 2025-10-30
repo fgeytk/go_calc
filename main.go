@@ -17,7 +17,7 @@ func main() {
 	fmt.Scanln(&a)
 	fmt.Print("Entrez le deuxieme nombre: ")
 	fmt.Scanln(&b)
-	fmt.Printf("Choix de l'operation")
+	fmt.Printf("Choix de l'operation\n")
 	fmt.Println("1. Addition")
 	fmt.Println("2. Soustraction")
 	fmt.Println("3. Multiplication")
